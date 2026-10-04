@@ -1,5 +1,5 @@
 // IMPORTANT: Replace these two values with your real business contact details.
-const WHATSAPP_NUMBER = "91XXXXXXXXXX"; // India country code + number, digits only
+const WHATSAPP_NUMBER = "918768279821"; // India country code + number, digits only
 const BUSINESS_EMAIL = "hello@vyntrixweb.in";
 
 const waUrl = (message = "Hello VYNTRIXWEB.IN, I would like to discuss a website project.") =>
